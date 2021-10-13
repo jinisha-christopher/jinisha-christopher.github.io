@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjini_venishjoe_net=self.webpackChunkjini_venishjoe_net||[]).push([[477],{10:function(e){e.exports={blogPosts:[]}}}]);
